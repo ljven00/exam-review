@@ -9,6 +9,8 @@ import { geography } from "./geography.js";
 import { newscast } from "./newscast.js";
 import { general } from "./general.js";
 import { literature } from "./literature.js"
+import { english } from "./english.js";
+import { spanish } from "./spanish.js";
 
 
 // Format : [question, "choix A|choix B|choix C|choix D", index de la bonne réponse (0-3)]
@@ -23,7 +25,9 @@ const DATA = {
     "Littérature": literature,
     "Français": french,
     "Actualités": newscast,
-    "Culture générale": general
+    "Culture générale": general,
+    "Anglais": english,
+    "Espagnol": spanish
 
 };
 
