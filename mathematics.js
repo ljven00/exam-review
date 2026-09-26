@@ -488,7 +488,7 @@ export const mathematics = [
     ["Un cercle a une aire de 49π cm². Son rayon vaut :", "5 cm|6 cm|7 cm|14 cm", 2],
 
     ["La somme de deux nombres vaut 20 et leur différence vaut 6. Le plus grand vaut :", "7|10|13|16", 2],
-    ["Deux nombres ont une somme de 30 et un produit de 221. Ces nombres sont :", "11 et 19|12 et 18|13 et 17|14 et 16", 0],
+    ["Deux nombres ont une somme de 30 et un produit de 221. Ces nombres sont :", "11 et 19|12 et 18|13 et 17|14 et 16", 2],
     ["Le carré d'un nombre augmenté de 5 vaut 30. Le nombre positif vaut :", "3|5|√25|√30", 0],
     ["Un nombre augmenté de 20 % devient 144. Le nombre initial était :", "100|110|120|130", 2],
     ["Après deux augmentations successives de 10 %, un prix de 100 devient :", "110|120|121|122", 2],
