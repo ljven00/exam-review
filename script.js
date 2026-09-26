@@ -15,6 +15,7 @@ import { general } from "./general.js";
 import { literature } from "./literature.js"
 import { english } from "./english.js";
 import { spanish } from "./spanish.js";
+import { countries } from "./countries.js";
 
 
 // Format : [question, "choix A|choix B|choix C|choix D", index de la bonne réponse (0-3)]
@@ -22,6 +23,7 @@ const DATA = {
 
     "Histoire": history,
     "Géographie": geography,
+    "Pays": countries,
     "Biologie": biology,
     "Physique": physics,
     "Chimie": chemistry,
