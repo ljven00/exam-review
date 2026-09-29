@@ -16,6 +16,7 @@ import { literature } from "./literature.js"
 import { english } from "./english.js";
 import { spanish } from "./spanish.js";
 import { countries } from "./countries.js";
+import { equations } from "./questions/equations.js";
 
 
 // Format : [question, "choix A|choix B|choix C|choix D", index de la bonne réponse (0-3)]
@@ -28,6 +29,7 @@ const DATA = {
     "Physique": physics,
     "Chimie": chemistry,
     "Mathématiques": mathematics,
+    "Mise en Équations", equations, 
     "Littérature": literature,
     "Français": french,
     "Actualités": newscast,
