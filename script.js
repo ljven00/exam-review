@@ -17,6 +17,7 @@ import { english } from "./english.js";
 import { spanish } from "./spanish.js";
 import { countries } from "./countries.js";
 import { mathEquations } from "./matheq.js";
+import { geometry } from "./geometry.js";
 
 
 // Format : [question, "choix A|choix B|choix C|choix D", index de la bonne réponse (0-3)]
@@ -29,7 +30,8 @@ const DATA = {
     "Physique": physics,
     "Chimie": chemistry,
     "Mathématiques": mathematics,
-    "Mise en Équations": mathEquations, 
+    "Mise en Équations": mathEquations,
+    "Géométrie": geometry, 
     "Littérature": literature,
     "Français": french,
     "Actualités": newscast,
